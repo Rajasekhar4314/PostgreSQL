@@ -1,0 +1,16 @@
+## Open postgresql shell
+
+Server [localhost]: localhost
+Database [postgres]: postgres
+Port [5432]: 5432
+Username [postgres]: postgres
+Password for user postgres: xxxxxx
+
+
+## List the Databases
+\l
+## COnnect to Database
+\c database_name
+## To see tables in the Database
+\dt
+
